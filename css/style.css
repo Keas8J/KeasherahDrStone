@@ -1,3 +1,29 @@
+@import url("https://fonts.googleapis.com/css2?family=Fascinate+Inline&display=swap");
+
 body {
   background-color: rgb(92, 9, 9);
+}
+hmtl,
+body {
+  margin: 0;
+  padding: 0;
+}
+header {
+  text-align: center;
+  background-color: forestgreen;
+  padding: 20px;
+}
+header img {
+  width: 300px;
+  height: 300px;
+  border: 20px solid brown;
+  border-radius: 50%;
+}
+header h1 {
+  font-family: "Fascinate Inline", system-ui;
+  font-weight: 400;
+  font-style: normal;
+  font-size: 70px;
+  margin: 10px 0 20px 0;
+  color: rgb(133, 33, 33);
 }
