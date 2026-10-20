@@ -19,7 +19,7 @@ header {
 header img {
   width: 300px;
   height: 300px;
-  border: 20px solid brown;
+  border: 20px solid rgb(133, 33, 33);
   border-radius: 50%;
 }
 header h1 {
@@ -63,4 +63,17 @@ ul {
 }
 ol {
   color: forestgreen;
+}
+footer {
+  background-color: forestgreen;
+  padding: 40px;
+}
+.senkucap {
+  font-family: "Fascinate Inline", system-ui;
+  font-weight: 400;
+  font-style: normal;
+  font-size: 15px;
+  width: 800px;
+  margin: 0 auto;
+  color: rgb(133, 33, 33);
 }
