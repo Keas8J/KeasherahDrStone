@@ -30,6 +30,9 @@ header h1 {
   margin: 10px 0 20px 0;
   color: rgb(133, 33, 33);
 }
+.idk {
+  color: forestgreen;
+}
 a {
   color: beige;
 }
