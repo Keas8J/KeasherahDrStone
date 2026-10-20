@@ -1,6 +1,5 @@
 @import url("https://fonts.googleapis.com/css2?family=Fascinate+Inline&display=swap");
-@import url("https://fonts.googleapis.com/css2?family=Fascinate+Inline&family=Ultra&display=swap");
-
+@import url("https://fonts.googleapis.com/css2?family=Fascinate+Inline&family=Rubik+Glitch&family=Ultra&display=swap");
 body {
   background-color: rgb(92, 9, 9);
 }
@@ -28,10 +27,22 @@ header h1 {
   margin: 10px 0 20px 0;
   color: rgb(133, 33, 33);
 }
-main h2 {
-  font-family: "Fascinate Inline", system-ui;
+
+main {
+  width: 800px;
+  margin: 0 auto;
+}
+main img {
+  max-width: 100%;
+}
+
+h2 {
+  font-family: "Rubik Glitch", system-ui;
   font-weight: 400;
   font-style: normal;
+  font-size: 40px;
+  margin: 20px 0;
+  color: beige;
 }
 ul {
   color: forestgreen;
