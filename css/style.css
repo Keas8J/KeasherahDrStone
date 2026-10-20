@@ -30,10 +30,17 @@ header h1 {
   margin: 10px 0 20px 0;
   color: rgb(133, 33, 33);
 }
+a {
+  color: beige;
+}
+a:hover {
+  color: forestgreen;
+}
 .caption {
   font-size: 15px;
   color: blanchedalmond;
   font-style: oblique;
+  margin: 0;
 }
 main {
   width: 800px;
