@@ -33,3 +33,9 @@ main h2 {
   font-weight: 400;
   font-style: normal;
 }
+ul {
+  color: forestgreen;
+}
+ol {
+  color: forestgreen;
+}
