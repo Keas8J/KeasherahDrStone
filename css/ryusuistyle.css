@@ -1,0 +1,96 @@
+@import url("https://fonts.googleapis.com/css2?family=Fascinate+Inline&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Fascinate+Inline&family=Rubik+Glitch&family=Ultra&display=swap");
+body {
+  background-color: rgb(92, 9, 9);
+  font-family: "Times New Roman", Times, serif;
+  font-size: 19px;
+  line-height: 30px;
+}
+hmtl,
+body {
+  margin: 0;
+  padding: 0;
+}
+header {
+  text-align: center;
+  background-color: forestgreen;
+  padding: 20px;
+}
+header img {
+  width: 210px;
+  height: 210px;
+  border: 20px solid rgb(133, 33, 33);
+  border-radius: 50%;
+}
+header h1 {
+  font-family: "Fascinate Inline", system-ui;
+  font-weight: 400;
+  font-style: normal;
+  font-size: 70px;
+  margin: 10px 0 20px 0;
+  color: rgb(133, 33, 33);
+}
+.idk {
+  color: rgb(62, 34, 139);
+}
+a {
+  color: beige;
+}
+a:hover {
+  color: forestgreen;
+}
+.caption {
+  font-size: 15px;
+  color: blanchedalmond;
+  font-style: oblique;
+  margin: 0;
+}
+main {
+  max-width: 800px;
+  margin: 0 auto;
+  padding: 0 20px;
+}
+main img {
+  max-width: 100%;
+}
+
+h2 {
+  font-family: "Rubik Glitch", system-ui;
+  font-weight: 400;
+  font-style: normal;
+  font-size: 40px;
+  margin: 20px 0;
+  color: beige;
+}
+@media (max-width: 600px) {
+  header h1 {
+    font-size: 20px;
+  }
+  h2 {
+    font-size: 30px;
+  }
+}
+ul {
+  color: forestgreen;
+}
+ol {
+  color: forestgreen;
+}
+footer {
+  background-color: forestgreen;
+  padding: 40px;
+}
+.senkucap {
+  font-family: "Fascinate Inline", system-ui;
+  font-weight: 400;
+  font-style: normal;
+  font-size: 15px;
+  max-width: 800px;
+  margin: 0 auto;
+  color: rgb(133, 33, 33);
+}
+@media (max-width: 600px) {
+  footer .senkucap {
+    font-size: 16px;
+  }
+}
