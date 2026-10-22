@@ -34,10 +34,10 @@ header h1 {
   color: forestgreen;
 }
 a {
-  color: beige;
+  color: forestgreen;
 }
 a:hover {
-  color: forestgreen;
+  color: beige;
 }
 .caption {
   font-size: 15px;
